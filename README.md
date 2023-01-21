@@ -22,12 +22,12 @@
 - My Portfolio (Website)
 ---
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Haile-08&show_icons=true&count_private=true&theme=radical" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haile-08&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="42%">
+<img src="https://github-readme-stats.vercel.app/api?username=Haile-08&show_icons=true&theme=dark&hide_border=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haile-08&layout=compact&theme=dark&hide_border=true" width="42%">
  </p>
 <p align="center">
  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Haile-08&theme=react&background=0d1117&border=666">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haile-08&theme=dark&hide_border=true">
   </a>
 <p>
 
