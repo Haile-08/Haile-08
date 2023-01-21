@@ -76,3 +76,5 @@ int main(void)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Haile09774574)
      
 ---
+
+![footer](https://raw.githubusercontent.com/Haile-08/Haile-08/main/footer.webp)
