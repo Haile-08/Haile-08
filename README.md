@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 ```c
-#include <stdio.h>
+#include <unistd.h>
 
 /*
  * main - Entry point
@@ -13,7 +13,7 @@
  */
 int main(void)
 {
-     char intro[] = "Hello coders";
+     char txt[] = "Hello coders";
      
      write(1, txt, 13);
      return (1);
